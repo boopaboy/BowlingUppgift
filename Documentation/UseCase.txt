@@ -1,0 +1,21 @@
+Use case (registrera medlem):
+
+App: Bowlinghall hanteringssystem
+
+Huvudanvändare: Personal/Admin
+
+Workflow:
+
+1. Användare väljer registrera medlem från Menyn.
+
+2. Programmet ber användaren att mata in nödvändig information(I detta fall endast namn). 
+
+3. Programmet validerar användarens input (I detta fall kollar om det är tomt)
+
+4. Efter lyckad registrering skriver programmet ut att registreringen lyckades
+
+Alternative workflows: 
+
+Användaren matar in namn I ogiltigt format (ingenting) och programmet sager åt användaren att registreringen misslyckades pga tomt fält och ber användaren försöka igen.
+
+
